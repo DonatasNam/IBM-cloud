@@ -4,7 +4,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <string.h>
-
+//https://www.programmerall.com/article/5761115873/   https://www.programmerall.com/article/56462084517/   https://www.programmerall.com/article/41142084504/
 int main(int argc, char* argv[])
 {
 	pid_t process_id = 0;
